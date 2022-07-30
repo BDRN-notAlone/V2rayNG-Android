@@ -6,8 +6,8 @@ khusus untuk paket XL flex dan Akrab
 - untuk XL FLEX limit pemakaian 2gb/hari + kuota WhatsApp LINE 60gb/perbulan
 - untuk XL AKRAB limit 25gb/hari untuk sendiri kalo berdua yaa disedot berasama dua 25gb nya
 # Download aplikasi V2rayNG
-bisa download di <a href="https://play.google.com/store/apps/details?id=com.github.kr328.clash">playstore</a> atau <a href="https://github.com/Kr328/ClashForAndroid/releases">disini</a>
-sesuaikan dengan chipset hp kalian atau bisa pilih yang premium universal release
+bisa download di <a href="https://play.google.com/store/apps/details?id=com.github.kr328.clash">playstore</a> atau <a href="https://github.com/2dust/v2rayNG/releases">disini</a>
+sesuaikan dengan chipset hp kalian atau bisa pilih yang paling atas
 # Tutorial penggunaan
 - buka aplikasi V2rayNG
 - tekan tombol pojok kiri atas
