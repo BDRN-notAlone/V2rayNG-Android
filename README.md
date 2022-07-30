@@ -28,7 +28,7 @@ https://raw.githubusercontent.com/BDRN-notAlone/CLASH-android/main/config.yaml
 - untuk menjalankan aplikasi tekan ikon V di pojok kanan bawah
 
 # Terimaksih
-mohon donasinya via gopay atau shopeepay di nomor 082239563924
-
+mohon donasinya melalui gopay atau shopeepay di nomor 082239563924 agar config nya bisa terus saya update
 # Kontak saya
-ada yang perlu ditanyakan hubungi via <a href="https://wa.me/6285654602469">Whatsapp</a>
+ada yang perlu ditanyakan bisa hubungi saya melalui kontak saya dibawah ini
+- <a href="https://wa.me/6285654602469">Whatsapp</a>
