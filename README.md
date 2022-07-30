@@ -19,8 +19,7 @@ sesuaikan dengan chipset hp kalian atau bisa pilih yang paling atas
 - renmark isi terserah kalian namanya
 - centang enable update
 - optian url isi dengan link ini
-
-https://raw.githubusercontent.com/BDRN-notAlone/CLASH-android/main/config.yaml
+https://raw.githubusercontent.com/BDRN-notAlone/V2rayNG-Android/main/config.yaml
 - kemudian save dengan tekan ikon ✔️ di pojok kanan atas 
 - tekan tombol kembali lalu tekan tombol titik 3 di pojok kanan atas 
 - dan pilih update subscribtion maka confignya akan terunduh otomatis 
