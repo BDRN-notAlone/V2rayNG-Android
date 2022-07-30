@@ -31,3 +31,4 @@ mohon donasinya melalui gopay atau shopeepay di nomor 082239563924 agar config n
 # Kontak saya
 ada yang perlu ditanyakan bisa hubungi saya melalui kontak saya dibawah ini
 - <a href="https://wa.me/6285654602469">Whatsapp</a>
+- <a href="https://instagram.com/junaidi2_">Instagram</a>
