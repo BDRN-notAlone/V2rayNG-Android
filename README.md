@@ -1,11 +1,14 @@
-# V2rayNG-Android
-tutorial &amp; config V2rayNG for Android
-khusus paket XL flex dan Akrab
-
-# Download V2rayNG
-
-
-# Tutor penggunaan
+# Tutorial &amp; config V2rayNG for Android
+khusus untuk paket XL flex dan Akrab
+# Cara daftar paket
+- XL FLEX bisa beli di konter atau via jasa tembak
+- XL AKRAB bisa beli di Myxl (satu paket bisa untuk 2 kartu)
+- untuk XL FLEX limit pemakaian 2gb/hari + kuota WhatsApp LINE 60gb/perbulan
+- untuk XL AKRAB limit 25gb/hari untuk sendiri kalo berdua yaa disedot berasama dua 25gb nya
+# Download aplikasi V2rayNG
+bisa download di <a href="https://play.google.com/store/apps/details?id=com.github.kr328.clash">playstore</a> atau <a href="https://github.com/Kr328/ClashForAndroid/releases">disini</a>
+sesuaikan dengan chipset hp kalian atau bisa pilih yang premium universal release
+# Tutorial penggunaan
 - buka aplikasi V2rayNG
 - tekan tombol pojok kiri atas
 - pilih setting
