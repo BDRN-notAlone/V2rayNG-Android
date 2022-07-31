@@ -25,7 +25,8 @@ https://raw.githubusercontent.com/BDRN-notAlone/V2rayNG-Android/main/config.yaml
 - dan pilih update subscribtion maka confignya akan terunduh otomatis 
 - lalu pilih confignya sesuai dengan paket kalian
 - untuk menjalankan aplikasi tekan ikon V di pojok kanan bawah
-
+##### catatan
+jangan lupa untuk selalu klik update subscribtion tiap hari karena V2rayNG tidak bisa update otomatis seperti Clash 
 # Terimaksih
 mohon donasinya melalui gopay atau shopeepay di nomor 082239563924 agar config nya bisa terus saya update
 # Kontak saya
