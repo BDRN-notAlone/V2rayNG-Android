@@ -1,8 +1,8 @@
-trojan://c4146630-0fbb-11ed-baf4-1239d0255272@zendesk1.grabtaxi.com:443?path=%2Fhowdy&security=tls&host=sg1-trojan.bonds.id&type=ws&sni=sg1-trojan.bonds.id#FLEX+SG+HE
-trojan://9f269d60-0fbe-11ed-bc2e-1239d0255272@zendesk1.grabtaxi.com:443?path=%2Fhowdy&security=tls&host=sgovh-trojan.bonds.id&type=ws&sni=sgovh-trojan.bonds.id#FLEX+SG+OVH
-trojan://f93e3f40-0fbe-11ed-8be7-1239d0255272@zendesk1.grabtaxi.com:443?path=%2Fhowdy&security=tls&host=id2-trojan.bonds.id&type=ws&sni=id2-trojan.bonds.id#FLEX+ID+BIZNET
-trojan://2e5ade80-0fbf-11ed-b2af-1239d0255272@zendesk1.grabtaxi.com:443?path=%2Fhowdy&security=tls&host=idtj-ikd.bonds.id&type=ws&sni=idtj-ikd.bonds.id#FLEX+ID+IKD
-trojan://c4146630-0fbb-11ed-baf4-1239d0255272@104.26.4.10:443?path=%2Fhowdy&security=tls&host=sg1-trojan.bonds.id&type=ws&sni=sg1-trojan.bonds.id#AKRAB+SG+HE
-trojan://9f269d60-0fbe-11ed-bc2e-1239d0255272@104.26.4.10:443?path=%2Fhowdy&security=tls&host=sgovh-trojan.bonds.id&type=ws&sni=sgovh-trojan.bonds.id#AKRAB+SG+OVH
-trojan://f93e3f40-0fbe-11ed-8be7-1239d0255272@104.26.4.10:443?path=%2Fhowdy&security=tls&host=id2-trojan.bonds.id&type=ws&sni=id2-trojan.bonds.id#AKRAB+ID+BIZNET
-trojan://2e5ade80-0fbf-11ed-b2af-1239d0255272@104.26.4.10:443?path=%2Fhowdy&security=tls&host=idtj-ikd.bonds.id&type=ws&sni=idtj-ikd.bonds.id#AKRAB+ID+IKD
+trojan://14f58dd0-1c39-11ed-9b9e-1239d0255272@idtj-herza.bonds.id:443?security=tls&headerType=none&type=tcp&sni=kh.google.com#AKRAB+ID+HERZA
+trojan://14f58dd0-1c39-11ed-9b9e-1239d0255272@zendesk1.grabtaxi.com:443?path=%2Fhowdy&security=tls&host=idtj-herza.bonds.id&type=ws&sni=idtj-herza.bonds.id#FLEX+ID+HERZA
+trojan://42bccae0-1c39-11ed-ab16-1239d0255272@sg1-trojan.bonds.id:443?security=tls&headerType=none&type=tcp&sni=kh.google.com#AKRAB+SG+HE
+trojan://42bccae0-1c39-11ed-ab16-1239d0255272@zendesk1.grabtaxi.com:443?path=%2Fhowdy&security=tls&host=sg1-trojan.bonds.id&type=ws&sni=sg1-trojan.bonds.id#FLEX+SG+HE
+trojan://7813d740-1c39-11ed-b8cd-1239d0255272@sgovh-trojan.bonds.id:443?security=tls&headerType=none&type=tcp&sni=kh.google.com#AKRAB+SG+OVH
+trojan://7813d740-1c39-11ed-b8cd-1239d0255272@zendesk1.grabtaxi.com:443?path=%2Fhowdy&security=tls&host=sgovh-trojan.bonds.id&type=ws&sni=sgovh-trojan.bonds.id#FLEX+SG+HE
+trojan://a0bd0600-1c39-11ed-ba82-1239d0255272@id2-trojan.bonds.id:443?security=tls&headerType=none&type=tcp&sni=kh.google.com#AKRAB+ID+BIZNET
+trojan://a0bd0600-1c39-11ed-ba82-1239d0255272@zendesk1.grabtaxi.com:443?path=%2Fhowdy&security=tls&host=id2-trojan.bonds.id&type=ws&sni=id2-trojan.bonds.id#FLEX+ID+BIZNET
