@@ -1,3 +1,6 @@
-trojan://42ea3250-341d-11ed-bbeb-1239d0255272@sgovh-trojan.bonds.id:443?security=tls&headerType=none&type=tcp&sni=kh.google.com#OVH
-trojan://84ca0680-341d-11ed-9287-1239d0255272@trojan2.udpgw.com:443?security=tls&headerType=none&type=tcp&sni=kh.google.com#LINODE
-trojan://c4aa5de0-341d-11ed-9fbd-1239d0255272@idtj-herza.bonds.id:443?security=tls&headerType=none&type=tcp&sni=kh.google.com#HERZA
+trojan://0180b8f0-3fc5-11ed-a85a-1239d0255272@trojan3.udpgw.com:443?security=tls&headerType=none&type=tcp&sni=kh.google.com#LINODE
+trojan://4912e3b0-3fc5-11ed-85db-1239d0255272@sgovh-trojan.bonds.id:443?security=tls&headerType=none&type=tcp&sni=kh.google.com#OVH
+trojan://651ed850-3fc5-11ed-9899-1239d0255272@sg1-trojan.bonds.id:443?security=tls&headerType=none&type=tcp&sni=kh.google.com#HE
+trojan://8d6881a0-3fc5-11ed-9812-1239d0255272@id2-trojan.bonds.id:443?security=tls&headerType=none&type=tcp&sni=kh.google.com#BIZNET
+trojan://b29307f0-3fc5-11ed-b6b9-1239d0255272@idtj-herza.bonds.id:443?security=tls&headerType=none&type=tcp&sni=kh.google.com#HERZA
+trojan://d100a130-3fc5-11ed-80a4-1239d0255272@idtj-ikd.bonds.id:443?security=tls&headerType=none&type=tcp&sni=kh.google.com#IKD
