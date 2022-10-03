@@ -1,10 +1,8 @@
 # Tutorial &amp; config V2rayNG for Android
-khusus untuk paket XL flex dan Akrab
+khusus untuk paket XL Akrab
 # Cara daftar paket
-- XL FLEX bisa beli di konter atau via jasa tembak
 - XL AKRAB bisa beli di Myxl (satu paket bisa untuk 2 kartu)
-- untuk XL FLEX limit pemakaian 2gb/hari + kuota WhatsApp LINE 60gb/perbulan
-- untuk XL AKRAB limit 25gb/hari disedot berasama
+- XL AKRAB limit kuota bonusnya 25gb/hari dipakai bersama 
 # Download aplikasi V2rayNG
 bisa download di <a href="https://play.google.com/store/apps/details?id=com.v2ray.ang">playstore</a> atau <a href="https://github.com/2dust/v2rayNG/releases">disini</a>
 sesuaikan dengan chipset hp kalian atau bisa pilih yang paling atas
@@ -23,7 +21,7 @@ https://raw.githubusercontent.com/BDRN-notAlone/V2rayNG-Android/main/config.yaml
 - kemudian save dengan tekan ikon ✔️ di pojok kanan atas 
 - tekan tombol kembali lalu tekan tombol titik 3 di pojok kanan atas 
 - dan pilih update subscribtion maka confignya akan terunduh otomatis 
-- lalu pilih confignya sesuai dengan paket kalian
+- lalu pilih proxy confignya sesuai dengan yang kalian mau 
 - untuk menjalankan aplikasi tekan ikon V di pojok kanan bawah
 ##### catatan
 jangan lupa untuk selalu klik update subscribtion tiap hari karena V2rayNG tidak bisa update otomatis seperti Clash 
