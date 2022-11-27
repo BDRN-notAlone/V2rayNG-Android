@@ -1,5 +1,6 @@
-trojan://6582de70-607a-11ed-83b8-1239d0255272@sg1-trojan.bonds.id:443?security=tls&headerType=none&type=tcp&sni=kh.google.com#HE
-trojan://a44239f0-607a-11ed-a445-1239d0255272@sgovh-trojan.bonds.id:443?security=tls&headerType=none&type=tcp&sni=kh.google.com#OVH
-trojan://f2c50bb0-6406-11ed-be0d-1239d0255272@sg1-trojan.bonds.id:443?security=tls&headerType=none&type=tcp&sni=kh.google.com#SG+HE
-trojan://d1240d90-6406-11ed-8ee4-1239d0255272@sgovh-trojan.bonds.id:443?security=tls&headerType=none&type=tcp&sni=kh.google.com#SG+OVH
-trojan://0a53f810-6407-11ed-bf0c-1239d0255272@idtj-ikd.bonds.id:443?security=tls&headerType=none&type=tcp&sni=kh.google.com#ID+IKD
+trojan://ad8d5810-6e38-11ed-912c-1239d0255272@sg1-trojan.bonds.id:443?security=tls&headerType=none&type=tcp&sni=kh.google.com#satu
+trojan://bdbc04b0-6e38-11ed-ba63-1239d0255272@sg1-trojan.bonds.id:443?security=tls&headerType=none&type=tcp&sni=kh.google.com#dua
+trojan://e52c3bd0-6e38-11ed-8b5b-1239d0255272@sg1-trojan.bonds.id:443?security=tls&headerType=none&type=tcp&sni=kh.google.com#tiga
+trojan://0a8a33a0-6e39-11ed-adc1-1239d0255272@sgovh-trojan.bonds.id:443?security=tls&headerType=none&type=tcp&sni=kh.google.com#empat
+trojan://1dfa7210-6e39-11ed-9566-1239d0255272@sgovh-trojan.bonds.id:443?security=tls&headerType=none&type=tcp&sni=kh.google.com#lima
+trojan://2fb9f090-6e39-11ed-ad10-1239d0255272@sgovh-trojan.bonds.id:443?security=tls&headerType=none&type=tcp&sni=kh.google.com#enam
