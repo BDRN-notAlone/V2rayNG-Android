@@ -1,6 +1,2 @@
-trojan://ad8d5810-6e38-11ed-912c-1239d0255272@sg1-trojan.bonds.id:443?security=tls&headerType=none&type=tcp&sni=kh.google.com#satu
-trojan://bdbc04b0-6e38-11ed-ba63-1239d0255272@sg1-trojan.bonds.id:443?security=tls&headerType=none&type=tcp&sni=kh.google.com#dua
-trojan://e52c3bd0-6e38-11ed-8b5b-1239d0255272@sg1-trojan.bonds.id:443?security=tls&headerType=none&type=tcp&sni=kh.google.com#tiga
-trojan://0a8a33a0-6e39-11ed-adc1-1239d0255272@sgovh-trojan.bonds.id:443?security=tls&headerType=none&type=tcp&sni=kh.google.com#empat
-trojan://1dfa7210-6e39-11ed-9566-1239d0255272@sgovh-trojan.bonds.id:443?security=tls&headerType=none&type=tcp&sni=kh.google.com#lima
-trojan://2fb9f090-6e39-11ed-ad10-1239d0255272@sgovh-trojan.bonds.id:443?security=tls&headerType=none&type=tcp&sni=kh.google.com#enam
+vmess://eyJhZGQiOiJzZy1vdmgxLnZtZXNzLnNicyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiaG9zdCI6ImMud2hhdHNhcHAubmV0IiwiaWQiOiI1YzVhMzFiMC04MGVlLTExZWQtYjYzNC0yMDVjNmQ1ZjVkNzgiLCJuZXQiOiJ3cyIsInBhdGgiOiIvY2hhdCIsInBvcnQiOiI4MCIsInBzIjoia3VvdGEgV2hhdHNBcHAiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
+trojan://b9f7f9a0-80ed-11ed-9040-1239d0255272@trojan3.udpgw.com:443?security=tls&headerType=none&type=tcp&sni=kh.google.com#Akrab
