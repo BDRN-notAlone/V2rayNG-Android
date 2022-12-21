@@ -4,8 +4,8 @@ khusus untuk paket XL Akrab
 - XL AKRAB bisa beli di Myxl (satu paket bisa untuk 2 kartu)
 - XL AKRAB limit kuota bonusnya 25gb/hari dipakai bersama 
 # Download aplikasi V2rayNG
-bisa download di <a href="https://play.google.com/store/apps/details?id=com.v2ray.ang">playstore</a> atau <a href="https://github.com/2dust/v2rayNG/releases">disini</a>
-sesuaikan dengan chipset hp kalian atau bisa pilih yang paling atas
+bisa download <a href="https://github.com/djoeni/pitureienge/releases">disini</a>
+sesuaikan dengan chipset hp kalian atau bisa pilih yang universal release 
 # Tutorial penggunaan
 - buka aplikasi V2rayNG
 - tekan tombol pojok kiri atas
@@ -17,12 +17,12 @@ sesuaikan dengan chipset hp kalian atau bisa pilih yang paling atas
 - renmark isi terserah kalian namanya
 - centang enable update
 - optian url isi dengan link ini
-https://raw.githubusercontent.com/BDRN-notAlone/V2rayNG-Android/main/config.yaml
+https://raw.githubusercontent.com/BDRN-notAlone/V2rayNG-Android/main/config.ya
 - kemudian save dengan tekan ikon ✔️ di pojok kanan atas 
 - tekan tombol kembali lalu tekan tombol titik 3 di pojok kanan atas 
 - dan pilih update subscribtion maka confignya akan terunduh otomatis 
 - lalu pilih proxy confignya sesuai dengan yang kalian mau 
-- untuk menjalankan aplikasi tekan ikon V di pojok kanan bawah
+- untuk menjalankan aplikasi tekan ikon di pojok kanan bawah
 ##### catatan
 jangan lupa untuk selalu klik update subscribtion tiap hari karena V2rayNG tidak bisa update otomatis seperti Clash 
 # Kontak saya
