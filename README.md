@@ -17,7 +17,7 @@ sesuaikan dengan chipset hp kalian atau bisa pilih yang universal release
 - renmark isi terserah kalian namanya
 - centang enable update
 - optian url isi dengan link ini
-https://raw.githubusercontent.com/BDRN-notAlone/V2rayNG-Android/main/config.ya
+https://raw.githubusercontent.com/BDRN-notAlone/V2rayNG-Android/main/config.yaml
 - kemudian save dengan tekan ikon ✔️ di pojok kanan atas 
 - tekan tombol kembali lalu tekan tombol titik 3 di pojok kanan atas 
 - dan pilih update subscribtion maka confignya akan terunduh otomatis 
