@@ -1,2 +1,4 @@
-vmess://eyJhZGQiOiJzZy1vdmgxLnZtZXNzLnNicyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiaG9zdCI6ImMud2hhdHNhcHAubmV0IiwiaWQiOiI1YzVhMzFiMC04MGVlLTExZWQtYjYzNC0yMDVjNmQ1ZjVkNzgiLCJuZXQiOiJ3cyIsInBhdGgiOiIvY2hhdCIsInBvcnQiOiI4MCIsInBzIjoia3VvdGEgV2hhdHNBcHAiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
-trojan://b9f7f9a0-80ed-11ed-9040-1239d0255272@trojan3.udpgw.com:443?security=tls&headerType=none&type=tcp&sni=kh.google.com#Akrab
+trojan://a781f0c0-9aa5-11ed-bc0c-1239d0255272@sg1-trojan.bonds.id:443?security=tls&headerType=none&type=tcp&sni=teams.microsoft.com#%F0%9F%A5%AD
+trojan://d7f18260-9aa5-11ed-adf2-1239d0255272@sg2-trojan.bonds.id:443?security=tls&headerType=none&type=tcp&sni=clients5.google.com#%F0%9F%8D%8C
+trojan://481a5e30-9aa6-11ed-83e7-1239d0255272@sg3-trojan.bonds.id:443?security=tls&headerType=none&type=tcp&sni=kh.google.com#%F0%9F%8D%8A
+trojan://ad133da0-9aa6-11ed-ae99-1239d0255272@sgovh-trojan.bonds.id:443?security=tls&headerType=none&type=tcp&sni=zoom.us#%F0%9F%8D%89
